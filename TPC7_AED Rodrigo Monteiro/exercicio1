@@ -1,0 +1,17 @@
+Considerando o conceito e finalidade dos modificadores de tipo, relacione as
+afirmativas com as palavras reservadas correspondentes (todas as afirmativas devem
+ser preenchidas com o número relacionado ao modificador correspondente, e existe
+pelo menos uma afirmativa para cada modificador):
+(1)const, (2)volatile, (3)extern , (4)static , (5)register, (6)auto, (7)void
+
+a)const
+b)void
+c)volatile
+d)extern
+e)static
+f)auto
+g)const
+h)register
+i)auto
+j)volatile
+k)extern
